@@ -2,7 +2,7 @@
 <html>
 <head>
   <title>deepak</title>
-  <link rel="icon" type="image/x-icon" href="https://st1.bollywoodlife.com/wp-content/uploads/2019/05/Zayn-Malik-new-song.jpg?impolicy=Medium_Widthonly&w=600">
+  <link rel="icon" type="image/x-icon" href="https://cdn.logo.com/hotlink-ok/logo-social.png">
 </head>
 <body>
 
